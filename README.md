@@ -1,6 +1,6 @@
 # Operation Chat
 
-This project is dedicated to the ILS squadron of the IL2 Great Battles
+This project is dedicated for the voice chat for online gaming.
 
 ## Structure
 
